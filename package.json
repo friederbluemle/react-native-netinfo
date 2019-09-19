@@ -8,12 +8,11 @@
   "module": "lib/module/index.js",
   "files": [
     "/android",
-    "!/android/build",
     "/ios",
-    "/windows",
-    "/src",
     "/lib",
-    "/*.podspec"
+    "/src",
+    "/windows",
+    "/react-native-netinfo.podspec"
   ],
   "author": "Matt Oakes <hello@mattoakes.net>",
   "contributors": [
