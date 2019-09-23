@@ -136,7 +136,7 @@
       "git add"
     ],
     "*.java": [
-      "cd android && ./graldew spotlessApply",
+      "cd android && ./gradlew spotlessApply",
       "git add"
     ]
   }
